@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>Industrial Furniture by Nejellen</name>
+  <author>Nejellen</author>
+  <packageId>Nej.IndustrialFurniture</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>
+    Furniture in a modern style for the industrial tech level. Includes ** TODO **.
+  </description>
+</ModMetaData>
